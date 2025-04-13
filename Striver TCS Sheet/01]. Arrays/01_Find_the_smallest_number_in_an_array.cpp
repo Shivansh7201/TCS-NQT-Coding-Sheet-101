@@ -15,10 +15,7 @@ Explanation: 5 is the smallest element in the array.
 
 */ 
 
-#include<iostream>
-#include<vector>
-#include<algorithm>
-
+#include<bits/stdc++.h>
 using namespace std;
 
 // TC: O(n*log(n))
